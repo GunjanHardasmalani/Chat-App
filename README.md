@@ -1,5 +1,3 @@
-# TrustToken Frontend Interview Project
-  *A chat app with real APIs*
 
 ## Howdy! 👋
 This is a chat application like Slack built using React as Front end and Node.js for Backend
